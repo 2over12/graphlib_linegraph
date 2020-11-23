@@ -1,0 +1,4 @@
+(library
+ (name directed_linegraph)
+ (libraries bap graphlib)
+ (preprocess (pps ppx_jane)))

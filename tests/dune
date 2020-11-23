@@ -1,0 +1,3 @@
+(test
+ (name LineGraphTest)
+ (libraries ounit2 core_kernel directed_linegraph))
